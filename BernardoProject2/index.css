@@ -1,0 +1,62 @@
+.box{
+height: 300px;
+width: 300px;
+ float: left;
+ margin-right: 40px;
+ 
+}
+
+#box1{
+background-color:#EE7AE9;
+margin-left:25%;
+margin-top:10%
+}
+
+#box2{
+background-color:#00C5CD;
+margin-top:10%
+}
+
+#name{
+height: 100px;
+width: 250px;
+margin-top:40px;
+margin-left:20px;
+font-size:30px;
+}
+
+#push{
+height: 80px;
+width: 200px;
+margin-top:40px;
+margin-left:50px;
+font-size:30px;
+
+}
+
+#num1 {
+height: 50px;
+width: 250px;
+margin-top:40px;
+margin-left:20px;
+font-size:30px;
+
+}
+
+#num2{
+height: 50px;
+width: 250px;
+margin-top:10px;
+margin-left:20px;
+font-size:30px;
+}
+
+
+#add{
+height: 80px;
+width: 200px;
+margin-top:20px;
+margin-left:50px;
+font-size:30px;
+
+}
